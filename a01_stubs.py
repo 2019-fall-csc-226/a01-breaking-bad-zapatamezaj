@@ -17,11 +17,35 @@
 ######################################################################
 # (Required) Task 1
 # TODO Ask user for their birth year
-
+my_input = input('Please enter the year you were born: ')
 
 # TODO Check the year using if conditionals, and print the correct animal for that year.
-# See the a01_pets.py for examples
-
+if my_input == '1999':
+    print('Do you like carrots? You are a Rabbit!')
+elif my_input == '1998':
+    print('ROAR! You are a tiger!')
+elif my_input == '1997':
+    print('Do not have a cardi YAK attack, you are an ox!')
+elif my_input == '1996':
+    print('Careful around cats, you are a rat!')
+elif my_input == '1995':
+    print("OINK OINK! You are a pig")
+elif my_input == '1994':
+    print('WOOF! You are a dog!')
+elif my_input == '1993':
+    print('Cock-A-Doodle-Do! You are a rooster!')
+elif my_input == '1992':
+    print('Do you like bananas? Because you are a monkey!')
+elif my_input == '1991':
+    print("Don't eat this code! You're a goat!")
+elif my_input == '1990':
+    print('Hello neigh-bor! You are a horse!')
+elif my_input == '1989':
+    print('HISS! You are a snake!')
+elif my_input == '1988':
+    print('You are COOL and OLD! You are a dragon')
+else:
+    print('Try another year!')
 
 ######################################################################
 # (Required) Task 2
