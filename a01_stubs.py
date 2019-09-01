@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your name
-# Username: heggens             TODO: Change this to your username
+# Author: Jose Zapata
+# Username: zapatamezaj
 #
 # Assignment: A01
 #
